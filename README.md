@@ -14,5 +14,4 @@ An AI-powered browser automation agent using local LLMs and Playwright.
 - Browser-Use
 - Playwright
 
-## Purpose
-Built as part of an AI engineering internship assignment focused on autonomous browser agents and AI automation workflows.
+
